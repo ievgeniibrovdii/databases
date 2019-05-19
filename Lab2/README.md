@@ -7,4 +7,3 @@
 Схема бази даних: 
 
 ![Image alt](https://github.com/ievgeniibrovdii/databases/blob/master/Lab1/screenshots/db_schema.png)
-
